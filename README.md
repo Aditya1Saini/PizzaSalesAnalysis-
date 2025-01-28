@@ -105,7 +105,7 @@ ORDER BY percentage_contribution DESC;
 ## 🚀 Getting Started
 1. Clone the repository:
      bash
-   git clone https://github.com/yourusername/pizza-sales-analysis.git
+   git clone https://github.com/Aditya1Saini/PizzaSalesAnalysis-.git
      
 2. Import the datasets into your database.
 3. Run the SQL scripts from the `sql_scripts` directory to perform the analysis.
